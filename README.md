@@ -1,6 +1,4 @@
-# Cake-My-Day
-Bakery Shop Management System
-
+# Cake Bakery Management System
 
 # ⚙️ Technology Used
 1. HTML5
