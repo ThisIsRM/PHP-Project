@@ -41,4 +41,4 @@ a. Open 'phpmyadmin' in your browser.\
 b. Create a Database.\
 c. Import the SQL file provided with this project.
 
-5. Now, Open the project in your browser. It should run perfectly.
+5. Now, Open the project in your browser 'http://localhost/cmd/logincust.php'. It should run perfectly.
