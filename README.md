@@ -15,6 +15,8 @@
 3. Admin can Manage Admin, Categories and bakery Items.
 4. Admin can also Manage and Track Order and Delivery.
 
+The admin user name is: riths and password: 123.
+
 ### Pre-Requisites:
 
 1. Download and Install XAMPP
