@@ -30,7 +30,7 @@ Bakery Shop Management System
 1. Download as as Zip or Clone this project
 2. Move this project to Root Directory
 ```
-Local Disc C: -> xampp -> htdocs -> 'cake-my-day'
+Local Disc C: -> xampp -> htdocs -> 'cmd'
 ```
 *Local Disk C is the location where xampp was installed*
 
